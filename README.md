@@ -19,7 +19,7 @@ Este é o espaço onde passo a maior parte do meu tempo, me desenvolvendo e apre
 
 <p align="left"> 
 <a href="https://www.cprogramming.com/"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html-logo" width="40" height="40"/> </a>  <a href="https://www.cprogramming.com/"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css-logo" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/"> <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="javascript-logo" width="40" height="40"/> </a> 
-</p>
+</p> <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunosanntiago&show_icons=true&theme=radical)
 
