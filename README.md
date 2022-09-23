@@ -1,6 +1,6 @@
 ### Sejam bem-vindos 👋
 
-Eu sou Bruno Santiago, sou um programador Front End. Atualmente estou me desenvolvendo e criando novos projetos com HTML + CSS, inciando o aprendizado no JavaScript e React.
+Me chamo Bruno Santiago, sou um programador Front End. Atualmente estou me desenvolvendo e criando novos projetos com HTML + CSS, inciando o aprendizado no JavaScript e React.
 
 Este é o espaço onde passo a maior parte do meu tempo, me desenvolvendo e aprendendo novas habilidades.
 
