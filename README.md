@@ -9,9 +9,9 @@ Este é o espaço onde passo a maior parte do meu tempo, me desenvolvendo e apre
 
 <h4 align="left">Conecte-se comigo:</h4>
 <p align="left">
-<a href="https://www.linkedin.com/in/brunosanntiago/"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="20" /></a>
-<a href="https://www.instagram.com/brunosanntiago/"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="20" /></a>
-<a href="mailto:brunosantiago670@gmail.com"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="" height="30" width="20" /></a>
+<a href="https://www.linkedin.com/in/brunosanntiago/"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="30" /></a>
+<a href="https://www.instagram.com/brunosanntiago/"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="30" /></a>
+<a href="mailto:brunosantiago670@gmail.com"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="" height="30" width="30" /></a>
 </p>
 
 
